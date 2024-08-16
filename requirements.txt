@@ -1,0 +1,13 @@
+  
+twilio
+sendgrid
+python-dotenv
+python-telegram-bot
+
+
+pydantic
+bson
+pymongo
+
+transformers 
+torch
